@@ -80,11 +80,11 @@ const App = () => {
               </Menu.Item>
               <Menu.Item key="3" icon={<ExperimentOutlined />}>
                 <a
-                  href="https://www.aishort.top"
+                  href="https://www.a0.chat"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  ChatGPT Shortcut
+                  百晓生AI
                 </a>
               </Menu.Item>
             </Menu>
