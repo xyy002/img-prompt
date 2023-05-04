@@ -71,11 +71,11 @@ const App = () => {
               </Menu.Item>
               <Menu.Item key="2" icon={<ThunderboltOutlined />}>
                 <a
-                  href="https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html"
+                  href="https://pd.qq.com/s/dla0tgjq1"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Stable Diffusion 入门教程
+                  AIGC交流频道
                 </a>
               </Menu.Item>
               <Menu.Item key="3" icon={<ExperimentOutlined />}>
